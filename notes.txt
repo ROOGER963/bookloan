@@ -3,3 +3,8 @@ npm run start:dev
 
 npm i --save-dev @types/morgan
 
+npm i --save @nestjs/config
+
+
+npm i typeorm-naming-strategies @nestjs/typeorm pg
+
